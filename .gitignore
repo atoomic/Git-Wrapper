@@ -11,6 +11,7 @@ Git-Wrapper-*
 cover_db
 MANIFEST
 META.yml
+MYMETA.*
 .*.swp
 .build
 !releases/*.tar.gz
